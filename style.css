@@ -1,0 +1,39 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background: orangered;   
+}
+
+.header_div
+{
+    background: darkslateblue;
+    color: gold;
+}
+
+.header_div p{
+    font-family: 'prompt', cursive;
+    color: chartreuse;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: Bold;
+}
+
+.main_div button{
+    font-family: 'fantasy', Roboto;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    box-shadow: 5px 5px 5px cyan;
+}
+.copy_right_footer {
+    position: fixed;
+    color: olive;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: yellowgreen;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px dodgerblue(151,149,149);
+
+}
